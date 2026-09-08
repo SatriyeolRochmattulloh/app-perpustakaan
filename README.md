@@ -1,4 +1,3 @@
-﻿# app-perpustakaan
 # app-perpustakaan
 # Aplikasi Perpustakaan
 Aplikasi web sederhana berbasis Laravel yang dikembangkan untuk mengelola manajemen data buku dan transaksi peminjaman di perpustakaan secara digital.
